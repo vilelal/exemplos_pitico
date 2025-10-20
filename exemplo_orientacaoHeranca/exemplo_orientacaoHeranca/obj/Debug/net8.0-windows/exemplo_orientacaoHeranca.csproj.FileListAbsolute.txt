@@ -1,0 +1,17 @@
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\bin\Debug\net8.0-windows\exemplo_orientacaoHeranca.exe
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\bin\Debug\net8.0-windows\exemplo_orientacaoHeranca.deps.json
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\bin\Debug\net8.0-windows\exemplo_orientacaoHeranca.runtimeconfig.json
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\bin\Debug\net8.0-windows\exemplo_orientacaoHeranca.dll
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\bin\Debug\net8.0-windows\exemplo_orientacaoHeranca.pdb
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.Form1.resources
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.Form2.resources
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.csproj.GenerateResource.cache
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.AssemblyInfoInputs.cache
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.AssemblyInfo.cs
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.csproj.CoreCompileInputs.cache
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.dll
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\refint\exemplo_orientacaoHeranca.dll
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.pdb
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\exemplo_orientacaoHeranca.genruntimeconfig.cache
+U:\DS\4Bimestre\exemplo_orientacaoHeranca\exemplo_orientacaoHeranca\obj\Debug\net8.0-windows\ref\exemplo_orientacaoHeranca.dll
