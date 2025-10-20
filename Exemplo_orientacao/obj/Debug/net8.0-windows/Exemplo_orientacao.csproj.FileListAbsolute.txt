@@ -1,0 +1,17 @@
+U:\DS\4Bimestre\Exemplo_orientacao\bin\Debug\net8.0-windows\Exemplo_orientacao.exe
+U:\DS\4Bimestre\Exemplo_orientacao\bin\Debug\net8.0-windows\Exemplo_orientacao.deps.json
+U:\DS\4Bimestre\Exemplo_orientacao\bin\Debug\net8.0-windows\Exemplo_orientacao.runtimeconfig.json
+U:\DS\4Bimestre\Exemplo_orientacao\bin\Debug\net8.0-windows\Exemplo_orientacao.dll
+U:\DS\4Bimestre\Exemplo_orientacao\bin\Debug\net8.0-windows\Exemplo_orientacao.pdb
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.Form1.resources
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.Form2.resources
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.csproj.GenerateResource.cache
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.AssemblyInfoInputs.cache
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.AssemblyInfo.cs
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.csproj.CoreCompileInputs.cache
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.dll
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\refint\Exemplo_orientacao.dll
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.pdb
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\Exemplo_orientacao.genruntimeconfig.cache
+U:\DS\4Bimestre\Exemplo_orientacao\obj\Debug\net8.0-windows\ref\Exemplo_orientacao.dll
