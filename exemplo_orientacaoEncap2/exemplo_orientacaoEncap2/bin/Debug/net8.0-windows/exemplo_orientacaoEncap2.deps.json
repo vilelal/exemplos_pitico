@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exemplo_orientacaoEncap2/1.0.0": {
+        "runtime": {
+          "exemplo_orientacaoEncap2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exemplo_orientacaoEncap2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
