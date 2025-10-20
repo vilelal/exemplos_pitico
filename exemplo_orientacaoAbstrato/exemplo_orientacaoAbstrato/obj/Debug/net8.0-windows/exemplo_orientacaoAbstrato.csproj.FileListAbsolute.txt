@@ -1,0 +1,16 @@
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\bin\Debug\net8.0-windows\exemplo_orientacaoAbstrato.exe
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\bin\Debug\net8.0-windows\exemplo_orientacaoAbstrato.deps.json
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\bin\Debug\net8.0-windows\exemplo_orientacaoAbstrato.runtimeconfig.json
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\bin\Debug\net8.0-windows\exemplo_orientacaoAbstrato.dll
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\bin\Debug\net8.0-windows\exemplo_orientacaoAbstrato.pdb
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.Form1.resources
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.csproj.GenerateResource.cache
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.AssemblyInfoInputs.cache
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.AssemblyInfo.cs
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.csproj.CoreCompileInputs.cache
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.dll
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\refint\exemplo_orientacaoAbstrato.dll
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.pdb
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\exemplo_orientacaoAbstrato.genruntimeconfig.cache
+U:\DS\4Bimestre\exemplo_orientacaoAbstrato\exemplo_orientacaoAbstrato\obj\Debug\net8.0-windows\ref\exemplo_orientacaoAbstrato.dll
